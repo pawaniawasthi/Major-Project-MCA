@@ -5,5 +5,13 @@ This repository Stores files for my Major Project (CA7270) in the Master of Comp
 
 # Repository Structure
 1. Pawani Awasthi - Internship Offer Letter
-   Official internship offer letter for the position of Product Support Intern at WENDOR.
-   It outlines the internship details, including the role, stipend, duration (January 22, 2025, to May 22, 2025), and terms of employment.
+  - Official internship offer letter for the position of Product Support Intern at WENDOR.
+  - It outlines the internship details, including the role, stipend, duration (January 22, 2025, to May 22, 2025), and terms of employment.
+
+
+## Overview
+- **Position:** Product Support Intern  
+- **Company:** Bigshort Tails Private Limited (Blitz)  
+- **Duration:** January 20, 2025 – July 20, 2025  
+
+
