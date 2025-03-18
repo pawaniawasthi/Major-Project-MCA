@@ -43,11 +43,11 @@ This repository stores all files related to my **Major Project (CA7270)** for th
 ---
 
 ## 📅 Guidelines & Timelines  
- **Important Dates:**  
--  **Synopsis Submission:** **16 February 2025**  
--  **Mid-Term PPT (External):** **30 March 2025**  
--  **Final Report Submission:** **16 May 2025**  
--  **End-Term Presentation:** **29-30 May 2025**  
+ 
+-  **Synopsis Submission:** 16 February 2025  
+-  **Mid-Term PPT (External):** 30 March 2025  
+-  **Final Report Submission:** 16 May 2025  
+-  **End-Term Presentation:** 29-30 May 2025  
 
 ---
 
