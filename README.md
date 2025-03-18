@@ -29,9 +29,7 @@ This repository stores all files related to my **Major Project (CA7270)** for th
   - Job Posting & Application Tracking  
   - Real-time Notifications & Email Updates  
 - **Tools and Technologies** - React.js, Node.js, Express.js, MongoDB, Socket.io,mPostman API  
-
-### References  
-Official Documentation  
+- **References** - Official Documentation  
 
 
 ---
