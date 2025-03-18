@@ -15,9 +15,6 @@ This repository stores all files related to my **Major Project (CA7270)** for th
 
 ## Major Project Synopsis - "Job Portal"
 
-### Project Title  
-**Job Portal**  
-
 ### Synopsis Document Includes  
 - **Introduction**  
   A full-stack web application designed to enhance job searching and recruitment efficiency.  
