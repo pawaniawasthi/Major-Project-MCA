@@ -13,25 +13,26 @@ This repository stores all files related to my **Major Project (CA7270)** for th
    -  **Duration:** January 22, 2025 – May 22, 2025  
    -  **Details:** This document includes the **official offer letter**, outlining the **internship role, stipend, and terms**.  
 
-###  **Major Project Synopsis - "Job Portal"**  
-   -  **Project Title:** Job Portal  
-   -  **Synopsis Document** includes:  
-     -  **Introduction:** A **full-stack web application** designed to enhance job searching and recruitment efficiency.  
-     -  **Motivation & Problem Statement:** Aims to streamline hiring by providing structured platform for both Employers and Job Seekers.
-     -  **Methodology:**  
-       -  Employer & Job Seeker Portals  
-       -  Secure User Authentication  
-       -  Job Posting & Application Tracking  
-       -  Real-time Notifications & Email Updates  
-     -  **Technologies Used:**  
-       -  Frontend: **React.js**  
-       -  Backend: **Node.js, Express.js**  
-       -  Database: **MongoDB**  
-       -  Authentication & Security: **JWT, bcrypt**  
-       -  Resume Management: **Cloudinary**  
-       -  Notifications & Emails: **Socket.io, Nodemailer**  
-       -  API Testing & Management: **Postman API**  
-     -  **References:** Official Documentation  
+## Major Project Synopsis - "Job Portal"
+
+### Project Title  
+**Job Portal**  
+
+### Synopsis Document Includes  
+- **Introduction**  
+  A full-stack web application designed to enhance job searching and recruitment efficiency.  
+- **Motivation & Problem Statement**  
+  Aims to streamline hiring by providing a structured platform for both Employers and Job Seekers.  
+- **Methodology**  
+  - Employer & Job Seeker Portals  
+  - Secure User Authentication  
+  - Job Posting & Application Tracking  
+  - Real-time Notifications & Email Updates  
+- **Tools and Technologies** - React.js, Node.js, Express.js, MongoDB, Socket.io,mPostman API  
+
+### References  
+Official Documentation  
+
 
 ---
 
