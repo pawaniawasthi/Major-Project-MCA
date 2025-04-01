@@ -6,41 +6,6 @@ This repository stores all files related to my **Major Project (CA7270)** for th
 
 ---
 
-## 📑 Repository Structure  
-###  **Internship Offer Letter - Pawani Awasthi**  
-   -  **Company:** WENDOR  
-   -  **Position:** Frontend Developer Intern  
-   -  **Duration:** January 22, 2025 – May 22, 2025  
-   -  **Details:** This document includes the **official offer letter**, outlining the **internship role, stipend, and terms**.  
-
-## Major Project Synopsis - "Job Portal"
-
-### Synopsis Document Includes  
-- **Introduction** - A full-stack web application designed to enhance job searching and recruitment efficiency.  
-- **Motivation & Problem Statement** - Aims to streamline hiring by providing a structured platform for both Employers and Job Seekers.  
-- **Methodology**  
-  - Employer & Job Seeker Portals  
-  - Secure User Authentication  
-  - Job Posting & Application Tracking  
-  - Real-time Notifications & Email Updates  
-- **Tools and Technologies** - React.js, Node.js, Express.js, MongoDB, Socket.io,mPostman API  
-- **References** - Official Documentation  
-
-
----
-
-## 💻 Technologies Used  
-| Category | Technologies |
-|----------|--------------|
-|  **Frontend** | React.js |
-|  **Backend** | Node.js, Express.js |
-|  **Database** | MongoDB |
-|  **Authentication & Security** | JWT, bcrypt |
-|  **Resume Management** | Cloudinary |
-|  **Notifications & Emails** | Socket.io, Nodemailer |
-|  **API Testing** | Postman API |
-
----
 
 ## 📅 Guidelines & Timelines  
  
